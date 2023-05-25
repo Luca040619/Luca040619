@@ -1,15 +1,15 @@
-👋 Hi, I’m @Luca040619
+👋 Hi, I’m @Luca040619<br>
 A passionate developer with a keen interest in back-end stuff, but I'm quite proficient in front-end as well,
 
 Here's a rundown of the programming languages I'm comfortable with:
 
-🌐 For front-end development: HTML, CSS, JavaScript
+🌐 For front-end development: HTML, CSS, JavaScript<br>
 🛠️ For back-end development: Python, Java, C, C++, PHP
 
-In addition to these, I have a solid understanding of databases, specializing in MySQL.
+In addition to these, I have a solid understanding of databases, specializing in MySQL.<br>
 I enjoy finding creative ways to organize and retrieve data efficiently, ensuring the seamless functioning of the applications I develop.
 
-Always curious and eager to learn, I'm open to diving into new languages and technologies.
+Always curious and eager to learn, I'm open to diving into new languages and technologies.<br>
 So, if you have an interesting project don't hesitate to get in touch!
 
 📫 How to reach me: lucaporzio2004@gmail.com
