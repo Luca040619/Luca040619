@@ -6,8 +6,7 @@ Here's a rundown of the programming languages I'm comfortable with:
 🌐 For front-end development: HTML, CSS, JavaScript<br>
 🛠️ For back-end development: Python, Java, C, C++, PHP
 
-In addition to these, I have a solid understanding of databases, specializing in MySQL.<br>
-I enjoy finding creative ways to organize and retrieve data efficiently, ensuring the seamless functioning of the applications I develop.
+In addition to these, I have a solid understanding of databases, specializing in MySQL and i'm actually learning Node JS.
 
 Always curious and eager to learn, I'm open to diving into new languages and technologies.<br>
 So, if you have an interesting project don't hesitate to get in touch!
