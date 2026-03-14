@@ -3,8 +3,9 @@ A passionate developer with a keen interest in back-end stuff, but I'm quite pro
 
 Here's a rundown of the programming languages I'm comfortable with:
 
-🌐 For front-end development: HTML, CSS, JavaScript<br>
+🌐 For front-end development: React, HTML, CSS, JavaScript<br>
 🛠️ For back-end development: Python, Java, C, C++, PHP
+📱 For mobile development: Kotlin for android, React Native for multi-platform apps
 
 In addition to these, I have a solid understanding of databases, specializing in MySQL and i'm actually learning Node JS.
 
